@@ -1,3 +1,3 @@
 # FriendFinder
 
-Deploying to Heroku this evening
+Deploying to Heroku this evening.
